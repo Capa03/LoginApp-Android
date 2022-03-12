@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Username_Text">Username</string>
+    <string name="Password_Text">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="pdm_login">PDM Login</string>
+    <string name="have_you_already_an_account">Have you already an account?</string>
+    <string name="todo">TODO</string>
+    <string name="Email">Email</string>
+    <string name="namesigin">Name</string>
+</resources>
